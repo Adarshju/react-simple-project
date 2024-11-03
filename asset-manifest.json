@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-simple-project/static/css/main.a8d4e6ab.css",
+    "main.js": "/react-simple-project/static/js/main.867e890e.js",
+    "static/media/biogenesis-logo.png": "/react-simple-project/static/media/biogenesis-logo.d8e550cd880f6c86cdae.png",
+    "index.html": "/react-simple-project/index.html",
+    "static/media/cart3.svg": "/react-simple-project/static/media/cart3.9d3fa485b24282372cae92bf695507b3.svg",
+    "static/media/archive.svg": "/react-simple-project/static/media/archive.b55cafd458e5faf4d4bea52b605e5fea.svg",
+    "static/media/person-circle.svg": "/react-simple-project/static/media/person-circle.e6f8d07c843b7acc7be9ce2d03c91019.svg",
+    "static/media/arrow-down-short.svg": "/react-simple-project/static/media/arrow-down-short.f3b06630f2ff764dc15bb088e5bfaa6d.svg",
+    "main.a8d4e6ab.css.map": "/react-simple-project/static/css/main.a8d4e6ab.css.map",
+    "main.867e890e.js.map": "/react-simple-project/static/js/main.867e890e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8d4e6ab.css",
+    "static/js/main.867e890e.js"
+  ]
+}
